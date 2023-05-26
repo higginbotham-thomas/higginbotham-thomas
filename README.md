@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 
 
-[![Thomas' github stats](https://github-readme-stats.vercel.app/api?username=higginbotham-thomas&count_private=true&show_icons=true&theme=transparent&hide_rank=false)](https://github.com/higginbotham-thomas/github-readme-stats)
+[![Thomas' github stats](https://github-readme-stats.vercel.app/api?username=higginbotham-thomas&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_rank=false)](https://github.com/higginbotham-thomas/github-readme-stats)
