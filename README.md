@@ -11,4 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Thomas' github stats](https://github-readme-stats.vercel.app/api?username=higginbotham-thomas&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=higginbotham-thomas&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
