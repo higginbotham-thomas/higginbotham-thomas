@@ -6,4 +6,4 @@
 
 [![Thomas' github stats](https://github-readme-stats.vercel.app/api?username=higginbotham-thomas&count_private=true&show_icons=true&theme=transparent&rank_icon=default&hide_rank=false)](https://github.com/higginbotham-thomas/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higginbotham-thomas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higginbotham-thomas@theme=transparent&count_private=true&hide=html)](https://github.com/higginbotham-thomas/github-readme-stats)
