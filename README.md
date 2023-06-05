@@ -8,3 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higginbotham-thomas&theme=transparent&hide=html)](https://github.com/higginbotham-thomas/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higginbotham-thomas)](https://github.com/anuraghazra/github-readme-stats)
